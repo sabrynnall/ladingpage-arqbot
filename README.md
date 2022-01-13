@@ -38,6 +38,3 @@ Link do projeto: [Clica aqui](https://heuristic-pasteur-659df1.netlify.app/)
 # Contatos
 
 Sabrynna Lourenço - [Linkedin](https://www.linkedin.com/in/sabrynna-lourenco/) - [Instagram](https://www.instagram.com/sabrynna.ln/) - limasabrynna03@gmail.com
-
-
-Link do projeto: [https://github.com/sabrynnall/LandingPageArqBot](https://github.com/sabrynnall/LandingPageArqBot)
