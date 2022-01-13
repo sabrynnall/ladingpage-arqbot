@@ -21,15 +21,11 @@
   - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
   - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-<hr>
-
 # Vizualizando
 
 ## Servidor local
 
   1 - Para verificar a funcionalidade da página no seu servidor é recomendado instalar a extensão Live Server no VsCode. <br> 2 - Clicar no arquivo HTML com o botão direito e selecionar a opção "Open with Live Server".
-
-<br>
 
 ## Deploy 
 
@@ -38,8 +34,6 @@ Link do projeto: [Clica aqui](https://heuristic-pasteur-659df1.netlify.app/)
 <br>
 
 <img src='./img/interface.png'>
-
-<br>
 
 # Contatos
 
