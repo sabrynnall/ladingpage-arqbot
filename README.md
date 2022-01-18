@@ -29,7 +29,7 @@
 
 ## Deploy 
 
-Link do projeto: [Clica aqui](https://heuristic-pasteur-659df1.netlify.app/)
+Link do projeto: [Clica aqui](https://arqbot.netlify.app/)
 
 <br>
 
